@@ -1,0 +1,105 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://docwaltshireinvesting.files.wordpress.com/2018/12/4k-wallpaper-for-blue-gradient-background-with-gradient-background-for-website-website-technical-info-with-free-wallpaper.jpg');
+   
+    background-position: center;
+    background-size:cover;
+    background-repeat:repeat;
+}
+.container{
+    position: relative;
+  width: 9cm;
+ height: 16cm;
+  right:2cm;
+    border:none;
+    border-radius: 45px;
+    background-color: rgb(0, 0, 0);
+  
+    margin-left: 14cm;
+}
+.calculate{
+
+ position: relative;
+ top:1cm;
+ left:1.1cm;
+    width:7cm;
+    height:2cm;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+}
+.d{
+    background-color: black;
+    border: none;
+    position: relative;
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 1cm;
+margin-left: 1cm;
+width: 5cm;
+outline: none;
+border-bottom: 1px solid #ccc; 
+}
+
+
+
+h3{
+    text-align: center;
+    color:black ;
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif; 
+}
+
+button{
+    position: relative;
+    height:60px;
+    width:60px;
+    color: rgba(240, 248, 255, 0.986);
+    border: none;
+    border-radius: 50%;
+    background-color: rgba(240, 248, 255, 0.557);
+    cursor: pointer;
+    font-size: 25px;
+   left: 1.1cm;
+   top:2cm;
+}
+button:hover{
+    transform: translateY(0.25em);
+}
+/*
+
+ @media (min-width: 576px) {
+    .container{
+        margin-left: 1cm;
+    }
+ }
+
+   
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+    .container{
+        margin-left: 10px;
+    }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+    .container{
+        margin-left: 13.4cm;
+    }
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+    .container{
+        margin-left: 13.4cm;
+    }
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { 
+    .container{
+        margin-left: 13.4cm;
+    }
+ }
+   
+ *? 
